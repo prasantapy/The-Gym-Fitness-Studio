@@ -1,4 +1,4 @@
-Hi! Please share the following details for your Gym Management project:
+
 
 1. Project summary and goal
 2. Features/modules required
