@@ -1,0 +1,15 @@
+Hi! Please share the following details for your Gym Management project:
+
+1. Project summary and goal
+2. Features/modules required
+3. User roles and their access
+4. Required fields for each model (Member, Plan, etc.)
+5. UI/frontend design (if any)
+6. Login/authentication method
+7. Expected API endpoints (if already planned)
+8. Admin panel needs
+9. Timeline or deadline
+10. Deployment/server info
+11. Any third-party tools you want to integrate
+12. Budget/payment terms
+13. Preferred tech stack
